@@ -1,4 +1,4 @@
-## Directions to use the frontend app code:
+## Directions to use the code:
 
 1. **clone the repository**
 `git clone https://github.com/Marya-Alzubi/Add_Users_React_Upskiling`
