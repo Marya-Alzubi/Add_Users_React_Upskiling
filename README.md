@@ -1,3 +1,4 @@
+### The purpose of this tutorial is to practice how to use reusable components, practice more on useState hook,events handlers, how to pass the data between two child components by their parent.
 ## Directions to use the code:
 
 1. **clone the repository**
