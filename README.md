@@ -1,12 +1,13 @@
 ## Directions to use the code:
 
 1. **clone the repository**
-`git clone https://github.com/Marya-Alzubi/Add_Users_React_Upskiling`
 
-2. **Install npm packages:**
+2. **Open the project in terminal**
+
+3. **Install npm packages:**
 `npm install`
 
-3. **Open the Local Host**
+4. **Open the Local Host**
 `npm start`
 
 ## Images:
